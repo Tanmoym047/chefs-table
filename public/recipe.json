@@ -1,0 +1,87 @@
+[
+    {
+        "recipe_image": "https://images.pexels.com/photos/6113813/pexels-photo-6113813.jpeg",
+        "recipe_id": 1,
+        "recipe_name": "Chicken Curry",
+        "short_description": "A flavorful and aromatic chicken curry dish.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaves",
+            "400 g mushroom",
+            "50g salt"
+        ],
+        "preparing_time": "45",
+        "calories": "380"
+    },
+    {
+        "recipe_image": "https://images.pexels.com/photos/128408/pexels-photo-128408.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "recipe_id": 2,
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "Classic Italian pasta dish with rich meat sauce.",
+        "ingredients": [
+            "400 g spaghetti",
+            "300 g ground beef",
+            "200 g canned tomatoes",
+            "100 g grated Parmesan cheese"
+        ],
+        "preparing_time": "40",
+        "calories": "450"
+    },
+    {
+        "recipe_image": "https://images.pexels.com/photos/2181151/pexels-photo-2181151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "A colorful and healthy stir-fry dish with fresh vegetables.",
+        "ingredients": [
+            "300 g mixed vegetables (bell peppers, broccoli, carrots)",
+            "150 g tofu",
+            "100 g soy sauce",
+            "50 g sesame oil"
+        ],
+        "preparing_time": "25",
+        "calories": "250"
+    },
+    {
+        "recipe_image": "https://images.pexels.com/photos/775030/pexels-photo-775030.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "recipe_id": 4,
+        "recipe_name": "Banana Smoothie",
+        "short_description": "A creamy and delicious smoothie made with ripe bananas.",
+        "ingredients": [
+            "2 ripe bananas",
+            "250 ml milk",
+            "50 g honey",
+            "100 g yogurt"
+        ],
+        "preparing_time": "10",
+        "calories": "200"
+    },
+    {
+        "recipe_image": "https://images.pexels.com/photos/3763847/pexels-photo-3763847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "recipe_id": 5,
+        "recipe_name": "Grilled Salmon",
+        "short_description": "Tender grilled salmon fillets with a flavorful marinade.",
+        "ingredients": [
+            "4 salmon fillets",
+            "50 ml olive oil",
+            "2 cloves garlic, minced"
+            
+        ],
+        "preparing_time": "20",
+        "calories": "300"
+    },
+    {
+        "recipe_image": "https://images.pexels.com/photos/3493579/pexels-photo-3493579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "recipe_id": 6,
+        "recipe_name": "Vegetable Soup",
+        "short_description": "A comforting and nutritious soup packed with fresh vegetables.",
+        "ingredients": [
+            "500 g mixed vegetables (carrots, potatoes, celery)",
+            "1 liter vegetable broth",
+            "2 cloves garlic, minced",
+            "50 g onion, chopped"
+        ],
+        "preparing_time": "35",
+        "calories": "180"
+    }
+]
